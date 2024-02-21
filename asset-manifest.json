@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fcc-github-profile-finder/static/css/main.145f8e9e.css",
+    "main.js": "/fcc-github-profile-finder/static/js/main.b047ddcb.js",
+    "static/js/453.3a6aaa30.chunk.js": "/fcc-github-profile-finder/static/js/453.3a6aaa30.chunk.js",
+    "index.html": "/fcc-github-profile-finder/index.html",
+    "main.145f8e9e.css.map": "/fcc-github-profile-finder/static/css/main.145f8e9e.css.map",
+    "main.b047ddcb.js.map": "/fcc-github-profile-finder/static/js/main.b047ddcb.js.map",
+    "453.3a6aaa30.chunk.js.map": "/fcc-github-profile-finder/static/js/453.3a6aaa30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145f8e9e.css",
+    "static/js/main.b047ddcb.js"
+  ]
+}
